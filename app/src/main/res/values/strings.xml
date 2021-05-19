@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ball</string>
+    <string name="score">Punkty: </string>
+    <string name="play">Graj</string>
+    <string name="restart">Restart</string>
+    <string name="pause">Pauza</string>
+    <string name="settings">Ustawienia</string>
+    <string name="about">O aplikacji</string>
+</resources>
